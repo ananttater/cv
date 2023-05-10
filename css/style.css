@@ -1,0 +1,127 @@
+div{
+    text-align: center;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+body{
+    margin: 0px;
+    background-color: #F1F6F9;
+}
+h1{
+    margin: 0 auto;
+    width: 15%;
+}
+h2{
+    font-weight: normal;
+    color: white;
+    margin: 0px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+p{
+    margin: 0 auto;
+    width: 20%;
+    /* margin: 30px auto auto; */
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 90px auto 40px;
+}
+.social-network{
+    text-align: none;
+    height: 12%;
+    width: 100%;
+    margin: 0;
+    background-color: #F1F6F9;
+    /* position: fixed; */
+}
+.linkedin{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 450px;
+}
+.leetcode{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 490px;
+}
+.gfg{
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 40px;
+    left: 505px;
+}
+.github{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 35px;
+    left: 470px;
+}
+.top-container{
+    background-color: #F1F6F9;
+    font-size: x-large;
+    padding-top: 35px;
+
+}
+.mid-container{
+    position: relative;
+    background-color: #F1F6F9;
+    /* margin: 0%; */
+}
+.bottom-container{
+    background-color: #394867;
+    padding: 60px 0px 60px;
+}
+.name{
+    font-family: "Pacifico";
+}
+.name2{
+    font-family: "Pacifico";
+    font-size: 60px;
+    position: relative;
+    top: 70px;
+}
+.cloud-top{
+    position: relative;
+    height: 100px;
+    width: 160px;
+    left: 230px;
+    top: 30px;
+    
+}
+.cloud-bottom{
+    position: relative;
+    height: 100px;
+    width: 160px;
+    bottom: 270px;
+    right: 30px;
+}
+.mountain{
+    height: 300px;
+    width: 500px;
+    right: 100px;
+    top: 10px;
+    position: relative;
+}
+.profile-img{
+    height: 250px;
+    width: 250px;
+    position: relative; 
+    right: 250px;
+}
+.intro{
+    width: 20%;
+    top: 170px;
+    left: 50px;
+    position: relative;
+}
+.copiright{
+    color: white;
+    margin-top: 30px;
+}
